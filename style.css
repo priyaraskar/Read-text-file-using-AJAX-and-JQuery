@@ -1,0 +1,9 @@
+.divFile {
+  height: 100px;
+  width: 100%;
+  background: light-grey;
+  color: blue;
+  border: 1px solid black;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
